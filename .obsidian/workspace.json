@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aad38db3920551e5",
+        "id": "e82e79b0268bed9b",
         "type": "tabs",
         "children": [
           {
-            "id": "e0e5afa351da7d6b",
+            "id": "be908e27334e3f2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "7a84fc37d732584d",
@@ -179,12 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "712b34dd0456bbfa",
+  "active": "be908e27334e3f2d",
   "lastOpenFiles": [
-    "dsdsfs.md",
+    "CNN/Модули внимания/Spatial attention module.md",
+    "Pasted image 20250612152453.png",
     "CNN/Модули внимания/Channel Attention Module.md",
+    "CNN/Модули внимания/Pasted image 20250612150222.png",
+    "CNN/Модули внимания/Модули внимания.md",
     "asdasd.md",
     "sdfdsfsdf.md",
+    "dsdsfs.md",
     "README.md",
     "Без названия 1",
     "CNN/Модули внимания",
