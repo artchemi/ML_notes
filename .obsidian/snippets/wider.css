@@ -1,0 +1,12 @@
+/* Расширяет ширину текста в редакторе и предпросмотре */
+:root {
+  --file-line-width: 1200px; /* Работает в теме Minimal */
+}
+
+.markdown-source-view,
+.markdown-preview-view {
+  max-width: 1200px !important;
+  margin: auto;
+  padding: 0 2rem;
+}
+

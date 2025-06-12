@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 200
   },
   "right": {
     "id": "7a84fc37d732584d",
@@ -161,8 +161,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0e5afa351da7d6b",
+  "active": "712b34dd0456bbfa",
   "lastOpenFiles": [
     "dsdsfs.md",
     "CNN/Модули внимания/Channel Attention Module.md",

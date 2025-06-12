@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "minimal-width"
+    "wide-page"
   ],
-  "cssTheme": "Atom"
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian"
 }
