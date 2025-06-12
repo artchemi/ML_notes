@@ -1,0 +1,21 @@
+/* Перезаписываем ширину содержимого в теме Minimal */
+.view-content, 
+.markdown-preview-view, 
+.markdown-source-view {
+  max-width: 200% !important;    /* или 1200px, если хотите */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Если тема задаёт ширину через переменные — сбросим их */
+:root {
+  --max-width: 200% !important;
+}
+
+/* Иногда помогает убрать ограничения у контейнера */
+.workspace-leaf-content {
+  max-width: 200% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+

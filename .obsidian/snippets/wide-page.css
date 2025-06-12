@@ -1,0 +1,11 @@
+.markdown-preview-view {
+  max-width: 2000px !important;   /* Увеличивает ширину до 90% окна */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.markdown-source-view {
+  max-width: 2000px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

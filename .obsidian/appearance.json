@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "minimal-width"
+  ],
+  "cssTheme": "Atom"
+}
