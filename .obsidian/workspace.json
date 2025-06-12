@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e82e79b0268bed9b",
+        "id": "bf52d480d992b892",
         "type": "tabs",
         "children": [
           {
-            "id": "be908e27334e3f2d",
+            "id": "f9c48ce008af61bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CNN/Модули внимания/Channel Attention Module.md",
-                "mode": "source",
-                "source": false
+                "file": "CNN/Модули внимания/Pasted image 20250612152453.png"
               },
-              "icon": "lucide-file",
-              "title": "Channel Attention Module"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250612152453"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 253.5
   },
   "right": {
     "id": "7a84fc37d732584d",
@@ -179,13 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be908e27334e3f2d",
+  "active": "712b34dd0456bbfa",
   "lastOpenFiles": [
+    "CNN/Модули внимания/Pasted image 20250612154517.png",
+    "CNN/Модули внимания/Pasted image 20250612155128.png",
     "CNN/Модули внимания/Spatial attention module.md",
-    "Pasted image 20250612152453.png",
+    "CNN/Модули внимания/Модули внимания.md",
     "CNN/Модули внимания/Channel Attention Module.md",
     "CNN/Модули внимания/Pasted image 20250612150222.png",
-    "CNN/Модули внимания/Модули внимания.md",
+    "CNN/Модули внимания/Pasted image 20250612152453.png",
     "asdasd.md",
     "sdfdsfsdf.md",
     "dsdsfs.md",
