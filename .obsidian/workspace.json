@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNN/Модули внимания/Модули внимания.md",
+                "file": "CNN/Модули внимания/Spatial attention module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модули внимания"
+              "title": "Spatial attention module"
             }
           },
           {
@@ -220,11 +220,11 @@
   },
   "active": "bff9f6f5ba86a8e0",
   "lastOpenFiles": [
-    "CNN/Модули внимания/Spatial attention module.md",
+    "CNN/Модули внимания/Squeeze-and-Excitation Networks.md",
     "CNN/Модули внимания/Модули внимания.md",
+    "CNN/Модули внимания/Spatial attention module.md",
     "images/Pasted image 20250612155128.png",
     "images/Pasted image 20250612154517.png",
-    "CNN/Модули внимания/Squeeze-and-Excitation Networks.md",
     "CNN/Модули внимания/Channel Attention Module.md",
     "Git tips.md",
     "images/Pasted image 20250612152453.png",
