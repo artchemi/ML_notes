@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика/ANOVA.md",
+                "file": "Статистика/Тест Тьюки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANOVA"
+              "title": "Тест Тьюки"
             }
           },
           {
@@ -248,9 +248,10 @@
   },
   "active": "b8043c1a25d5e029",
   "lastOpenFiles": [
+    "Статистика/ANOVA.md",
+    "Статистика/Тест Тьюки.md",
     "Статистика",
     "Git tips.md",
-    "Статистика/ANOVA.md",
     "Байесовская статистика/Гауссовы процессы.md",
     "Оптимизация гиперпараметров/GPSampler.md",
     "Оптимизация гиперпараметров/Optuna.md",
